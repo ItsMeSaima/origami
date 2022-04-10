@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&family=Arima+Madurai:wght@100&family=Dancing+Script&family=Josefin+Slab:wght@100&family=Magra&family=Milonga&family=Neucha&family=Parisienne&family=Tangerine&display=swap');
+
+
+
+body {
+    text-align: center;
+     background-color: white;
+
+}
+
+h1 {
+    font-size: 50px;
+    font-family: parisienne;
+    font-weight: 300;
+}
+
+p {
+  font-family:josefin slab;
+font-weight: bold;
+  font-size: 20px
+}
+
+h2 {
+font-family:josefin slab;
+font-weight: bold;
+  font-size: 27px
+}
+
+
+img{
+    width:auto;
+    height:300px;
+   border-radius:3%;
+    border-color: white;
+    margin:20px;
+border-style: solid;
+transition: transform .2s;
+}
+
+img:hover {
+   transform: scale( 1.1);
+
+}
+
+
+
+
+#intro{
+    background-color: #cecef5;
+}
+
+#origami1{
+   background-color:#dafcca;
+}
+
+#origami2{
+  background-color:#d9e3ff; 
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 730px;
+    margin: 8px auto;
+border-radius: 5px;
+}
